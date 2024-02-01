@@ -6,6 +6,6 @@
 ## HTML & CSS Reference
 - [HTML]
 # Navigation
-
+[Example Page] (./example_page.html)
 # Notes
 By default `README.md` will be used as your GitHub Page site's `index.html` (i.e,, landing/home page).
